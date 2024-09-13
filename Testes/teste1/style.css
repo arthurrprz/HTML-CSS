@@ -1,0 +1,10 @@
+p {
+    width: 30px;
+}
+
+nav {
+    background-color: coral;
+    color: white;
+    position: sticky;
+    top: 0px;
+}
